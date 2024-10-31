@@ -1,0 +1,18 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.postbox{padding-top:10px;}
+.newsBooster_wrap h2{font-size: 1.3em!important; }
+#poststuff .postbox.newsBooster_wrap .inside, #poststuff .postbox.newsBooster_wrap h2{margin-left:10px;}
+.message_preview{background-color: #f9f9f9}
+
+.message_preview_image_horizontal{
+    width: 100%;
+    display: block;
+    background-size: cover;
+    padding-bottom: 52.3%;
+    background-position: 50% 50%;
+}
+
